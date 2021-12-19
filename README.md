@@ -22,6 +22,7 @@ JPARepository interface will give us 50% of our dialect in order to crerat basic
 table relations :@OneToOne, @OneToMany, @ManyToMany, @ManyToOne.<br/>
 each one of them can be sort by cascade=Cascade.Type.ALL(all is just one example),orphenRemovel=true, fetch ,persist and many many more all depends of what u need .
 @Singular- come frome lombok ,will let me the options to create manualy obj one by one ...<br/>
+Change START SPRING baner message template frome: https://manytools.org/hacker-tools/ascii-banner/.
 
 
 
